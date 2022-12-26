@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Shivam",
+      "phone": 1234567890,
+      "email": "shivya123@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Anjali",
+      "phone": 6789034521,
+      "email": "as@gmail.com"
+    },
+    {
+      "name": "Arushi Shrivastava",
+      "phone": "1084327823",
+      "email": "arushi@333",
+      "id": 4
+    },
+    {
+      "name": "Anvi",
+      "phone": "7895623465",
+      "email": "anvi@yahoo.com",
+      "id": 5
+    },
+    {
+      "name": "Mukesh",
+      "phone": "9425372060",
+      "email": "muku@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Shivya",
+      "phone": "9997775554",
+      "email": "shivya@456",
+      "id": 9
+    },
+    {
+      "name": "Shreya Shrivastava",
+      "phone": "7415530008",
+      "email": "shreya@123",
+      "id": 10
+    },
+    {
+      "name": "giyuu",
+      "phone": "1837908753",
+      "email": "Giyu12$@yahoo.com",
+      "id": 18
+    },
+    {
+      "name": "Rengoku",
+      "phone": "7654935785",
+      "email": "rengokusa@567",
+      "id": 19
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
